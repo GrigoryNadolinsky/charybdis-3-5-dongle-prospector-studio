@@ -31,7 +31,7 @@ layers:
   - ','
   - .
   - /
-  - LCTRL
+  - Function
   - Symbol
   - {t: RET, h: LGUI}
   - {t: SPACE, h: Number}
@@ -172,10 +172,10 @@ layers:
   - DEV TOOLS
   - ''
   - ''
-  - {type: held}
-  - {type: held}
   - ''
   - ''
+  - ''
+  - {type: held}
   - ''
   - ''
   - ''
@@ -204,3 +204,5 @@ combos:
   k: Ctl+ BACK SPACE
 - p: [0, 4]
   k: ZMK Studio
+- p: [34, 33]
+  k: BOOT LDR
